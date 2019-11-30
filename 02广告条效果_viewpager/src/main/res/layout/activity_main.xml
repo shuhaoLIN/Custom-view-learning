@@ -20,10 +20,11 @@
             android:layout_height="wrap_content">
         <TextView
                 android:id="@+id/textview"
-                android:textSize="15dp"
+                android:textSize="20dp"
                 android:padding="5dp"
                 android:gravity="center"
                 android:text="钢铁侠"
+                android:textColor="#ffffff"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
         <LinearLayout
