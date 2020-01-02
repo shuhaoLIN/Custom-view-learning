@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyAttrsView">
+        <attr name="my_age" format="integer"/>
+        <attr name="my_name" format="string"/>
+        <attr name="my_github" format="string"/>
+        <attr name="my_bg" format="reference"/>
+    </declare-styleable>
+</resources>
